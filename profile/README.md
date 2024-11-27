@@ -23,8 +23,6 @@ YPolaris is at the forefront of delivering exceptional store experiences using c
 ### **Seamless Integration with Existing CCTV Systems**  
 Our solutions leverage AI-powered visual data analysis to optimize store operations and customer experience without the need for additional hardware. Integration is simple and cost-effective with existing CCTV infrastructure.  
 
-> _*Note: The image is a representation and may differ from actual solution operation.*_
-
 ---
 
 ### **Frictionless Shopping: Enhance Store Experience**  
