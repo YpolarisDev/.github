@@ -70,7 +70,8 @@ Here's a glimpse of the languages and tools we specialize in:
 - **Front-End**: Dart, TypeScript  
 - **Back-End**: TypeScript, PHP  
 - **Mobile**: Flutter  
-- **Others**: C++, C#  
+- **Others**: C++, C#
+- **AI**: Python
 
 ---
 
